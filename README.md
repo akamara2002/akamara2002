@@ -19,8 +19,6 @@
 **Databases:** PostgreSQL | SQLite  
 **Tools:** Git | Docker | Tableau | Power BI
 
-## 📊 GitHub Stats
-![Alim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:alimkamara408@gmail.com)
