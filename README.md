@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Alim Kamara 👋
 
-<!--
-**akamara2002/akamara2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🏆 Valedictorian, BAU Cyprus University (Computer Engineering, 2025)
+- 💼 Director of Tech & Innovation at CAFIA
+- 🌍 Building AI-powered solutions for African SMEs and diaspora communities
+- 🔬 Passionate about AI/ML, Blockchain, and Financial Inclusion
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- **Exec Connect**: AI-driven SME diagnostic platform using LLM agents
+- **TrustBridge SL**: Blockchain-verified investment ecosystem + AI CV optimizer
+- **Youth Employment Analysis**: ML models predicting employment trends across 50 African countries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+**Languages:** Python | JavaScript | C++ | Java | SQL  
+**Frameworks:** Flask | Flutter | Node.js  
+**AI/ML:** TensorFlow | OpenAI API | scikit-learn  
+**Blockchain:** Solana | Web3  
+**Databases:** PostgreSQL | SQLite  
+**Tools:** Git | Docker | Tableau | Power BI
+
+## 📊 GitHub Stats
+![Alim's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## 📫 Connect With Me
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:alimkamara408@gmail.com)
